@@ -1,6 +1,6 @@
 # react-voice-visualizer 
 
-# [Demo App](https://react-voice-visualizer.vercel.app/)
+# [Demo App](https://react-voice-visualizer-carepilot.vercel.app/)
 
 ## Thanks
 
@@ -9,11 +9,11 @@ Thanks to [Neil Fisher](https://github.com/NeilTheFisher/react-voice-visualizer)
 
 ## Overview
 
-The `react-voice-visualizer` library offers a comprehensive and highly customizable solution for capturing, visualizing, and manipulating audio recordings within your web applications. Built with React hook and component, this library simplifies the process of integrating audio recording and visualization functionalities using the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API).
+The `react-voice-visualizer-carepilot` library offers a comprehensive and highly customizable solution for capturing, visualizing, and manipulating audio recordings within your web applications. Built with React hook and component, this library simplifies the process of integrating audio recording and visualization functionalities using the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API).
 
 ![screenshot](./public/voiceVisualizer.png)
 
-Experience the [Demo App: Click here to explore the react-voice-visualizer](https://react-voice-visualizer.vercel.app/). Try it out and see it in action!
+Experience the [Demo App: Click here to explore the react-voice-visualizer](https://react-voice-visualizer-carepilot.vercel.app/). Try it out and see it in action!
 
 ### Key Features:
 
@@ -49,8 +49,8 @@ yarn add @docucare/react-voice-visualizer
 **New Features:**
 - Preloaded Audio Blob Support: Version 2.x.x introduces the capability to set preloaded audio blobs. Users now have the flexibility to load audio blobs from various sources, such as user inputs or files using `setPreloadedAudioBlob` function, expanding the library's versatility in different scenarios.
 
-## [Demo App](https://react-voice-visualizer.vercel.app/)
-For a live demonstration of the React Voice Visualizer library, you can check out the [Demo Voice Visualizer App](https://react-voice-visualizer.vercel.app/). This app showcases various features and functionalities of the library in action.
+## [Demo App](https://react-voice-visualizer-carepilot.vercel.app/)
+For a live demonstration of the React Voice Visualizer library, you can check out the [Demo Voice Visualizer App](https://react-voice-visualizer-carepilot.vercel.app/). This app showcases various features and functionalities of the library in action.
 
 Feel free to explore the demo app to see how the **React Voice Visualizer** can be used in different scenarios. You can refer to the source code of the demo app for additional examples and inspiration for using the library effectively.
 
