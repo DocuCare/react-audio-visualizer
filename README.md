@@ -1,4 +1,4 @@
-# react-audio-visualizer 
+# react-voice-visualizer 
 
 # [Demo App](https://react-voice-visualizer.vercel.app/)
 
@@ -9,7 +9,7 @@ Thanks to [Neil Fisher](https://github.com/NeilTheFisher/react-voice-visualizer)
 
 ## Overview
 
-The `react-audio-visualizer` library offers a comprehensive and highly customizable solution for capturing, visualizing, and manipulating audio recordings within your web applications. Built with React hook and component, this library simplifies the process of integrating audio recording and visualization functionalities using the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API).
+The `react-voice-visualizer` library offers a comprehensive and highly customizable solution for capturing, visualizing, and manipulating audio recordings within your web applications. Built with React hook and component, this library simplifies the process of integrating audio recording and visualization functionalities using the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API).
 
 ![screenshot](./public/voiceVisualizer.png)
 
@@ -32,13 +32,13 @@ This README provides a comprehensive guide to effectively utilizing the library'
 To integrate the React Voice Visualizer library into your project, simply install it via npm or yarn:
 
 ```bash
-npm install @docucare/react-audio-visualizer
+npm install @docucare/react-voice-visualizer
 ```
 
 or
 
 ```bash
-yarn add @docucare/react-audio-visualizer
+yarn add @docucare/react-voice-visualizer
 ```
 
 ## Version 2.x.x Release Notes
