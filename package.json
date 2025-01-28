@@ -1,12 +1,12 @@
 {
-  "name": "react-voice-visualizer",
+  "name": "@docucare/react-audio-visualizer",
   "private": false,
   "version": "2.2.2",
   "type": "module",
-  "author": "Yurii Zarytskyi & Neil Fisher",
+  "author": "Yurii Zarytskyi & Neil Fisher & CarePilot Engineering",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NeilTheFisher/react-voice-visualizer.git"
+    "url": "git+https://github.com/DocuCare/react-audio-visualizer.git"
   },
   "description": "React library for audio recording and visualization using Web Audio API",
   "license": "MIT",
@@ -75,7 +75,7 @@
     "vite-plugin-dts": "^3.5.3"
   },
   "bugs": {
-    "url": "https://github.com/YZarytskyi/react-voice-visualizer/issues"
+    "url": "https://github.com/DocuCare/react-audio-visualizer/issues"
   },
-  "homepage": "https://github.com/YZarytskyi/react-voice-visualizer#readme"
+  "homepage": "https://github.com/DocuCare/react-audio-visualizer#readme"
 }

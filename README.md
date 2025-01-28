@@ -1,10 +1,15 @@
-# react-voice-visualizer 
+# react-audio-visualizer 
 
 # [Demo App](https://react-voice-visualizer.vercel.app/)
 
+## Thanks
+
+Thanks to [Yurii Zarytskyi](https://github.com/YZarytskyi/react-voice-visualizer) for the original library.  
+Thanks to [Neil Fisher](https://github.com/NeilTheFisher/react-voice-visualizer) for the forked version of the library.  
+
 ## Overview
 
-The `react-voice-visualizer` library offers a comprehensive and highly customizable solution for capturing, visualizing, and manipulating audio recordings within your web applications. Built with React hook and component, this library simplifies the process of integrating audio recording and visualization functionalities using the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API).
+The `react-audio-visualizer` library offers a comprehensive and highly customizable solution for capturing, visualizing, and manipulating audio recordings within your web applications. Built with React hook and component, this library simplifies the process of integrating audio recording and visualization functionalities using the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API).
 
 ![screenshot](./public/voiceVisualizer.png)
 
@@ -27,13 +32,13 @@ This README provides a comprehensive guide to effectively utilizing the library'
 To integrate the React Voice Visualizer library into your project, simply install it via npm or yarn:
 
 ```bash
-npm install react-voice-visualizer
+npm install @docucare/react-audio-visualizer
 ```
 
 or
 
 ```bash
-yarn add react-voice-visualizer
+yarn add @docucare/react-audio-visualizer
 ```
 
 ## Version 2.x.x Release Notes
@@ -211,9 +216,7 @@ If you encounter any bugs or have suggestions for improvements, please report th
 
 ## Support
 
-For support or general questions, you can reach out to [zarytskyi222@gmail.com](mailto:zarytskyi222@gmail.com).
-
-If you find my project valuable and would like to support its development, you can buy me a coffee ☕. Your contribution helps keep this project active and growing.
+If you find this project valuable and would like to support its development, you can buy the original author a coffee ☕. Your contribution helps keep this project active and growing.
 
 <a href="https://www.buymeacoffee.com/zarytskyi22" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
@@ -221,8 +224,4 @@ Your contribution is greatly appreciated! ❤️🚀
 
 ## Credits
 
-This library was created by [Yurii Zarytskyi](https://github.com/YZarytskyi)
-
-  <a href="https://www.linkedin.com/in/yurii-zarytskyi/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedIn"> LinkedIn
-  </a>
+This library was originally created by [Yurii Zarytskyi](https://github.com/YZarytskyi) and enhanced by [Neil Fisher](https://github.com/NeilTheFisher)
