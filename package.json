@@ -1,7 +1,7 @@
 {
   "name": "@docucare/react-voice-visualizer",
   "private": false,
-  "version": "2.2.2",
+  "version": "2.2.4",
   "type": "module",
   "author": "Yurii Zarytskyi & Neil Fisher & CarePilot Engineering",
   "repository": {
@@ -55,7 +55,7 @@
     "build": "tsc && vite build",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "publish": "npm publish --access public"
+    "publish-package": "npm publish --access public"
   },
   "peerDependencies": {
     "react": "^18.2.0 || ^19.0.0",
